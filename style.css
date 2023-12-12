@@ -156,6 +156,7 @@ p {
 .top-right-img img {
   border-radius: 50%;
   transition: all 0.3s ease;
+  margin: 0 auto;
 }
 .top-right-img img:hover {
   scale: 1.02;
