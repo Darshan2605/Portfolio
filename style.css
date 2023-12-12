@@ -221,6 +221,10 @@ p {
 .querry-area {
   height: 100px;
 }
+.social-media {
+  display: flex;
+  justify-content: center;
+}
 .social-media a {
   display: inline-block;
 }

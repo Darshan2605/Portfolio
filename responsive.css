@@ -23,9 +23,13 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 500px) {
   /* custom css */
   section {
     padding: 5rem 0;
+  }
+  .social-media a img {
+    width: 35px;
+    height: 35px;
   }
 }
