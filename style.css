@@ -154,6 +154,7 @@ p {
     radial-gradient(circle at top left, #4458dc, #854fee);
 }
 .top-right-img img {
+  display: block;
   border-radius: 40%;
   transition: all 0.3s ease;
   margin: 0 auto;
